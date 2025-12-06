@@ -1,1 +1,1 @@
-# Code Higligher API work
+# Code Highlighter API work
